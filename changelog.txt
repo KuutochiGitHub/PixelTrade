@@ -1,0 +1,12 @@
+Put questions and comments in https://replit.com/@LeoXu2/The-Pixel-Trade
+
+----------------------------------------------------------------------------------------------------------
+
+v1.1
+- Game created
+
+v1.2
+- Added changelog
+- Cops
+    - Price increased to 75,000
+    - Approval per minute reduced to 2%
